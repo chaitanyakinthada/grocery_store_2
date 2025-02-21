@@ -1,0 +1,7 @@
+.button-css {
+position: fixed;
+margin-top: 50px;
+bottom: 20px;
+right: 20px;
+z-index: 1000;
+}
